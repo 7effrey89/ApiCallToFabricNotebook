@@ -33,7 +33,7 @@ You need permission to create project connections (currently **Foundry Project
 Manager**, formerly Azure AI Project Manager).
 
 ## 2. Paste these dialog values
-
+![alt text](image-2.png)
 ### Name
 
 ```text

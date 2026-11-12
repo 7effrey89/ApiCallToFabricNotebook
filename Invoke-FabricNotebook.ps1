@@ -34,8 +34,8 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
-$workspaceId = 'f05ea07b-6c22-48cb-9fa0-e4e73cb78b7d'
-$notebookId = '4a743494-5a9a-4e75-b705-7ed0a5db2fca'
+$workspaceId = 'f05ea07b-6c22-xxxx-xxxx-e4e73cb78b7d'
+$notebookId = '4a743494-xxxx-xxxx-b705-7ed0a5db2fca'
 $apiRoot = 'https://api.fabric.microsoft.com'
 $itemUrl = "$apiRoot/v1/workspaces/$workspaceId/items/$notebookId"
 

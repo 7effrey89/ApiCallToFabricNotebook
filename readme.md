@@ -1,3 +1,6 @@
+For a Foundry agent, see [Foundry agent setup](./Foundry-Agent-Setup.md) for
+paste-ready dialog values, the OpenAPI schema, authentication, and agent instructions.
+
 Change the variables in the powershell, and run it.
 
 - $workspaceId = 'f05ea07b-6c22-48cb-9fa0-e4e73cb78b7d'

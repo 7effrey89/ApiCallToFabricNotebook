@@ -1,5 +1,8 @@
-For a Foundry agent, see [Foundry agent setup](./Foundry-Agent-Setup.md) for
+For a Foundry agent, see [Foundry notebook setup](./Foundry-Agent-CallFabricNotebookViaApi.md) for
 paste-ready dialog values, the OpenAPI schema, authentication, and agent instructions.
+
+For the GraphQL stored-procedure mutation, see
+[Foundry GraphQL setup](./Foundry-Agent-CallFabricGraphQL.md).
 
 Change the variables in the powershell, and run it.
 
